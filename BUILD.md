@@ -15,6 +15,6 @@ $ sudo ./install.sh /usr/local/bin
 **Build for mac application:**
 
 ``` shell
-$ jar2app ns-usbloader-6.0.jar -n "NS-USBloader" -x universalJavaApplicationStub -r /Library/Java/JavaVirtualMachines/openjdk.jdk -i logo.icns -v 6.0
-$ jar2app ns-usbloader-6.0-legacy.jar -n "NS-USBloader" -x universalJavaApplicationStub -r /Library/Java/JavaVirtualMachines/openjdk.jdk -i logo.icns -v 6.0
+$ jar2app ns-usbloader-6.1.jar -n "NS-USBloader" -x universalJavaApplicationStub -r /Library/Java/JavaVirtualMachines/openjdk.jdk -i logo.icns -v 6.1
+$ jar2app ns-usbloader-6.1-legacy.jar -n "NS-USBloader" -x universalJavaApplicationStub -r /Library/Java/JavaVirtualMachines/openjdk.jdk -i logo.icns -v 6.1
 ```
